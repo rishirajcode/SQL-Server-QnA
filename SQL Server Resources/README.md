@@ -3,11 +3,10 @@
 A personal, growing collection of Microsoft SQL Server interview questions & answers, administration notes, T-SQL snippets, performance tuning tips, DBA best practices, and study resources.  <br>
 Focused on real-world SQL Server (on-premises & Azure SQL) concepts — perfect for interviews, certifications (e.g., Microsoft Certified: Azure Database Administrator Associate, DP-300), and daily DBA/reference work.
 <br>
-**Repository**: [https://github.com/rishirajcode/SQL-Server-QnA](https://github.com/rishirajcode/SQL-Server-QnA)  
-**Main content folder**: [`SQL Server Resources`](./SQL%20Server%20Resources) (or root files if structured differently)
+**Repository**: [https://github.com/rishirajcode/SQL-Server-QnA](https://github.com/rishirajcode/SQL-Server-QnA)  <br>
+**Main content folder**: [`SQL Server Resources`](./SQL%20Server%20Resources) (or root files if structured differently)<br>
 
 ## 🎯 Purpose
-<br>
 This repo is my centralized hub for everything SQL Server-related:
 <br>
 - Interview preparation (common & advanced Q&A)<br>
